@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Carrot",
+    "category": "Vegetables",
+    "priceCents": 1600,
+    "image": "https://www.jiomart.com/images/product/600x600/590003546/carrot-orange-500-g-product-images-o590003546-p590003546-0-202203151011.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 2,
+    "name": "Beetroot",
+    "category": "Vegetables",
+    "priceCents": 2100,
+    "image": "https://www.jiomart.com/images/product/600x600/590003540/beetroot-500-g-product-images-o590003540-p590003540-0-202203141904.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 3,
+    "name": "Tomato",
+    "category": "Vegetables",
+    "priceCents": 1200,
+    "image": "https://www.jiomart.com/images/product/600x600/590003517/tomato-1-kg-product-images-o590003517-p590003517-0-202203170629.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 4,
+    "name": "Brinjal",
+    "category": "Vegetables",
+    "priceCents": 1800,
+    "image": "https://www.jiomart.com/images/product/600x600/590004102/brinjal-purple-striped-500-g-product-images-o590004102-p590004102-0-202203150748.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 5,
+    "name": "Lady's Finger",
+    "category": "Vegetables",
+    "priceCents": 1600,
+    "image": "https://www.jiomart.com/images/product/600x600/590003550/bhendi-okra-500-g-product-images-o590003550-p590003550-0-202203170339.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 6,
+    "name": "Orange",
+    "category": "Fruits",
+    "priceCents": 2100,
+    "image": "https://www.jiomart.com/images/product/600x600/590000025/orange-imported-1-kg-product-images-o590000025-p590000025-0-202203171007.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 7,
+    "name": "Mango",
+    "category": "Fruits",
+    "priceCents": 1200,
+    "image": "https://www.jiomart.com/images/product/600x600/590009518/mango-totapuri-4-pcs-approx-1200-g-1400-g-product-images-o590009518-p590177429-0-202204261843.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "category": "Fruits",
+    "priceCents": 1600,
+    "image": "https://www.jiomart.com/images/product/420x420/599991650/apple-pink-lady-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991650-p598731802-0-202302240954.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 9,
+    "name": "Drum stick",
+    "category": "Vegetables",
+    "priceCents": 1200,
+    "image": "https://www.jiomart.com/images/product/600x600/590000128/drumstick-each-approx-25-g-100-g-product-images-o590000128-p590000128-0-202203170715.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 10,
+    "name": "Spinach",
+    "category": "Vegetables",
+    "priceCents": 1200,
+    "image": "https://www.jiomart.com/images/product/360x360/590004479/spinach-paalak-1-bunch-approx-100-g-300-g-product-images-o590004479-p590004479-0-202203170434.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 11,
+    "name": "Cauli Flower",
+    "category": "Vegetables",
+    "priceCents": 1400,
+    "image": "https://www.jiomart.com/images/product/360x360/590003537/cauliflower-1-pc-approx-600-g-1000-g-product-images-o590003537-p590003537-0-202203170515.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 12,
+    "name": "Onion",
+    "category": "Vegetables",
+    "priceCents": 1200,
+    "image": "https://www.jiomart.com/images/product/360x360/590002136/onion-5-kg-pack-product-images-o590002136-p590002136-0-202203141906.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 13,
+    "name": "Beans",
+    "category": "Vegetables",
+    "priceCents": 1700,
+    "image": "https://www.jiomart.com/images/product/360x360/590003549/french-beans-500-g-product-images-o590003549-p590003549-0-202203150547.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 14,
+    "name":"Radish",
+    "category": "Vegetables",
+    "priceCents": 1500,
+    "image": "https://www.jiomart.com/images/product/360x360/590001892/radish-white-1-pc-approx-80-g-150-g-product-images-o590001892-p590001892-0-202203171016.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 15,
+    "name": "Grapes",
+    "category": "Fruits",
+    "priceCents": 1100,
+    "image": "https://www.jiomart.com/images/product/360x360/590000452/sharad-seedless-grapes-1-kg-product-images-o590000452-p590116963-0-202203171004.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 16,
+    "name": "Pumpkin",
+    "category": "Vegetables",
+    "priceCents": 1900,
+    "image": "https://www.jiomart.com/images/product/420x420/rv9d892n9e/platone-pumpkin-hybrid-vegetable-seeds-for-kitchen-gardening-pack-of1-packet-product-images-orv9d892n9e-p598232241-0-202302081805.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 17,
+    "name": "Watermelon",
+    "category": "Fruits",
+    "priceCents": 1300,
+    "image": "https://www.jiomart.com/images/product/360x360/rvmd9nasp8/trustbasket-multicolor-open-pollinated-water-melon-1-product-images-orvmd9nasp8-p591031312-0-202201302300.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 18,
+    "name": "Capsicum",
+    "category": "Vegetables",
+    "priceCents": 1500,
+    "image": "https://www.jiomart.com/images/product/360x360/590003662/green-capsicum-500-g-product-images-o590003662-p590003662-0-202203151617.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 19,
+    "name":"Chilli",
+    "category": "Vegetables",
+    "priceCents": 1000,
+    "image": "https://www.jiomart.com/images/product/360x360/590003533/green-chilli-200-g-product-images-o590003533-p590003533-0-202203150435.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },{
+    "id": 20,
+    "name": "Potato",
+    "category": "Vegetables",
+    "priceCents": 1100,
+    "image": "https://www.jiomart.com/images/product/360x360/590003516/potato-per-kg-product-images-o590003516-p590003516-0-202203170642.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  }
+]
